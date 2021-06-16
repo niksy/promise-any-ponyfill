@@ -26,7 +26,8 @@
 						"regenerator": false,
 						"useESModules": true
 					}
-				]
+				],
+				"babel-plugin-transform-globalthis"
 			]
 		}
 	}
